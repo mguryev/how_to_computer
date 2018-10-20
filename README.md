@@ -22,5 +22,5 @@ I am not a professional educator, neither I have required training,
 
 ## Index
 
-1. Computer literacy
+1. [Computer literacy](computer_literacy.md)
 2. Python
